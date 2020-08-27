@@ -3,7 +3,7 @@
 }
 #card{
     background: linear-gradient(100deg, rgb(73, 71, 71), rgba(111, 131, 127, 0.863));
-    /* color: #fff; */
+    height: 455px;
 }
 #card:hover{
     box-shadow: 5px 5px 8px 8px grey;

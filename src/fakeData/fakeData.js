@@ -1,4 +1,4 @@
-const fakeData = [
+var fakeData = [
     {
         id: 1,
         img:"https://i.ibb.co/dKQfbCH/snap195.png",
@@ -26,7 +26,7 @@ const fakeData = [
     {
         id: 4,
         img:"https://i.ibb.co/7vZGPNR/px-Python.png",
-        title:"Python for Absolute Beginners",
+        title:"Python for Absolute Beginners [2020]",
         instructor:"Rehatpal Singh",
         rating:"6.3/10",
         price:200,
